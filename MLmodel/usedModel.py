@@ -64,4 +64,6 @@ if __name__ == '__main__':
     # data_train_path: Path of training data
     # data_label_path: Path of labeled data
     sizeOfVector = 24000
+    data_train_path = './'
+    data_label_path = './'
     main(sizeOfVector, data_train_path, data_label_path)
